@@ -2,7 +2,7 @@
 # 📊 Github Stats
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://streak-stats.demolab.com?user=PasanSilva99&theme=tokyonight&hide_border=true" alt="PasanSIlva99" /> <img src="(https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker"/>
+<p align="center"><img src="https://streak-stats.demolab.com?user=PasanSilva99&theme=tokyonight&hide_border=true" alt="PasanSIlva99" /> <img src="https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker"/>
 </p>
 
 <br>
