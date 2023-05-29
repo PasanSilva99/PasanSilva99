@@ -1,6 +1,6 @@
 # Heya!
 <p>
-	Hey there!, Im Pasan Anuththara. Got any interesting projects on somthing awesome? I will be exited to hear about it, Let's make an impact together! ✨
+	Hey there!, Im Pasan Anuththara. Got any interesting projects on somthing awesome? I'm exited to hear about it, Let's make an impact together! ✨
 </p>
 
 ## Get in Touch
