@@ -1,3 +1,15 @@
+# Heya!
+<p>
+	Hey there!, Im Pasan Anuththara. Got any interesting projects on somthing awesome? I will be exited to hear about it, Let's make an impact together! ✨
+</p>
+
+## Get in Touch
+
+- 📫 How to reach me: pasananuththara19@gmail.com.
+- 💼 Connect with me on LinkedIn: [PasanSilva](https://www.linkedin.com/in/pasansilva/).
+- 🐦 Follow me on Twitter: [pasan_silva0](https://twitter.com/pasan_silva0).
+- 💬 Join the conversation on Discord: [Tecxick](https://discord.gg/X6xXxZCNFC).
+<br>
 
 # 📊 Github Stats
 
