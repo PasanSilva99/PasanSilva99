@@ -1,7 +1,9 @@
 # Heya!
 
 <p align=center>
-	<img src='https://lanyard.kyrie25.me/api/617690320276160512?waveColor=A018EA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square' align="right"/>
+	<a href='https://discord.com/users/617690320276160512' target="_blank">
+		<img src='https://lanyard.kyrie25.me/api/617690320276160512?waveColor=A018EA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square' align="right"/>
+	</a>
 	<p align="left">Hey there!, Im Pasan Anuththara. Got any interesting projects on somthing awesome? I'm exited to hear about it, Let's make an impact together! ✨</p>  
 </p>
 
