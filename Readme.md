@@ -39,7 +39,6 @@
 <p align="center">
 	<img  style="background:#1a1b27;" src="https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker" width="200" heigth="200"/>
 	<img src="https://streak-stats.demolab.com?user=PasanSilva99&theme=transparent&hide_border=true&border_radius=10" alt="PasanSIlva99" /> 
-	<img src='https://github.com/PasanSilva99/PasanSilva99/assets/58817696/0545722b-4b7b-48f9-81b5-8fc585dc609a' width=180 heigth=180 />
 </p>
 
 <br>
@@ -55,10 +54,17 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="PasanSilva99's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PasanSilva99&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+		<img alt="PasanSilva99's Github Stats" 
+		     src="https://github-readme-stats-sigma-five.vercel.app/api?username=PasanSilva99&show_icons=true&count_private=true&theme=algolia&hide_border=true" 
+		     height="192px"/>
 	</a>
-	&nbsp;
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PasanSilva99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="PasanSilva99" height="192px"/>
+	<img src='https://github.com/PasanSilva99/PasanSilva99/assets/58817696/0545722b-4b7b-48f9-81b5-8fc585dc609a' width=180 heigth=180 />
+	<br>
+	<br>
+	<img src='https://i.pinimg.com/originals/69/1a/78/691a78b4611d3d92bd8877b369cc075f.png' width=180 heigth=180 />
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PasanSilva99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" 
+	     alt="PasanSilva99" 
+	     height="192px"/>
 	<br>
 	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
