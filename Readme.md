@@ -60,10 +60,12 @@
 		     src="https://github-readme-stats-sigma-five.vercel.app/api?username=PasanSilva99&show_icons=true&count_private=true&theme=algolia&hide_border=true" 
 		     height="192px"/>
 	</a>
+	&nbsp;&nbsp;&nbsp;
 	<img src='https://github.com/PasanSilva99/PasanSilva99/assets/58817696/0545722b-4b7b-48f9-81b5-8fc585dc609a' width=180 heigth=180 />
 	<br>
 	<br>
 	<img src='https://i.pinimg.com/originals/69/1a/78/691a78b4611d3d92bd8877b369cc075f.png' width=180 heigth=180 />
+	&nbsp;&nbsp;&nbsp;
 	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PasanSilva99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" 
 	     alt="PasanSilva99" 
 	     height="192px"/>
