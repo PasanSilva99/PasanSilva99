@@ -72,8 +72,9 @@
 	<br>
 	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+<br>
 <p align="center">
-	<img src="https://count.getloli.com/get/@:PasanSilva99" alt=":PasanSilva99" />
+	<img src="https://count.getloli.com/get/@:PasanSilva99" alt=":PasanSilva99" height="150px" />
 	<br>
 	<i>They saw that you are here and they will count it (*/ω＼*)</i>
 </p>
