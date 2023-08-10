@@ -72,7 +72,11 @@
 	<br>
 	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-----
+<p align="center">
+	<img src="https://count.getloli.com/get/@:PasanSilva99" alt=":PasanSilva99" />
+	<br>
+	<i>They saw that you are here and they will count it (*/ω＼*)</i>
+</p>
 <br/>
 
 ## Git profile Trophies
