@@ -35,6 +35,7 @@
 	<img src='https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
+	<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>
 </p>
 
 ### 🔥 Streak Stats
