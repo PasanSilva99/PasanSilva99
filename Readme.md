@@ -4,13 +4,12 @@
 	<a href='https://discord.com/users/617690320276160512' target="_blank">
 		<img src='https://lanyard.kyrie25.me/api/617690320276160512?waveColor=A018EA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&&idleMessage=Probably%20doing%20something%20else..' align="right"/>
 	</a>
-	<p align="left">Hey there!, Im Pasan Anuththara. Got any interesting projects on somthing awesome? I'm excited to hear about it, Let's make an impact together! ✨</p>  
+	<p align="left">Hey there!, Im Amoeher. Got any interesting projects on somthing awesome? I'm excited to hear about it, Let's make an impact together! Yea, I decided to change everything to my Amoeher Profile. (^^ゞ</p>  
 </p>
 
-- 📫 How to reach me: pasananuththara19@gmail.com.
-- 💼 Connect with me on LinkedIn: [PasanSilva](https://www.linkedin.com/in/pasansilva/).
-- 🐦 Follow me on Twitter: [pasan_silva0](https://twitter.com/pasan_silva0).
-- 💬 Join the conversation on Discord: [Tecxick](https://discord.gg/X6xXxZCNFC).
+- 📫 How to reach me: [Discord](https://discord.com/users/617690320276160512).
+- 💼 Connect Discord: [Amoherom](https://discord.gg/QCwVk9RyWQ).
+- ✉️ Feeling Professional?: [Email](amoeher@gmail.com).
 
 <br>
 <br>
